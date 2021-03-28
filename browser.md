@@ -56,8 +56,8 @@
     > Import site list and settings from [config file](https://github.com/Yetenol/Setup-Computer/blob/master/configs/Dark-Reader.json)   
     >- `Dark Reader > Settings > Manage settings > Import Settings`
 1. Install [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-    > Import [config file](https://github.com/Yetenol/Setup-Computer/blob/master/configs/uBlock-filters.txt) 
-    >- `uBlock Origin > Settings > Restore from file`
+    > Import [filter list](https://github.com/Yetenol/Setup-Computer/blob/master/configs/uBlock-filters.txt) 
+    >- `uBlock Origin > Open the dashboard > My filters > Import and append`
 1. Install [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
 1. Install [Tabliss - A Beautiful New Tab](https://chrome.google.com/webstore/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp)
 1. Install [Toolbox for Google Play Store](https://chrome.google.com/webstore/detail/toolbox-for-google-play-s/fepaalfjfchbdianlgginbmpeeacahoo)
