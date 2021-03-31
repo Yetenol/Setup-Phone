@@ -61,3 +61,11 @@
 1. Install [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
 1. Install [Tabliss - A Beautiful New Tab](https://chrome.google.com/webstore/detail/tabliss-a-beautiful-new-t/hipekcciheckooncpjeljhnekcoolahp)
 1. Install [Toolbox for Google Play Store](https://chrome.google.com/webstore/detail/toolbox-for-google-play-s/fepaalfjfchbdianlgginbmpeeacahoo)
+1. Install [SaveFrom.net helper](https://addons.opera.com/en/extensions/details/savefromnet-helper/)
+> - Download the crx file
+> - Open `about:extensions`
+> - [x] Developter mode
+> - Click `Load` and select the crx file
+> - Extension should appear in the list
+> - Enable extention
+> - Test it on m.youtube.com
