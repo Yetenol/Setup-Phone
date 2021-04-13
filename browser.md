@@ -1,4 +1,6 @@
 # Setup browser
+
+## Table of Contents
 1. [App setup](#Install-KiwiBrowser)
 1. [Experimental flags](#Experimental-flags)
 1. [Extensions](#Extensions)
