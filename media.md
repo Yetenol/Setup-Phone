@@ -17,7 +17,10 @@
 
 ## YouTube Vanced
 - Install [Vanced microG](#Vanced-microG)
-- Install `Light + Black` theme through [Vanced Manager](#Vanced-microG)
+> Install YouTube Vanced [Vanced Manager](#Vanced-microG)
+> - `Light + Black` = theme
+> - `15.43.32` = Version
+>   - As of 2021-04-21 version 16.* is not stable, has visual bugs and doesn't support multiple accounts
 - Set the app icon to the default YouTube icon 
 - Launch YouTube Vanced
 - If no content is visible? 
@@ -70,5 +73,4 @@
 microG is a Google Services alternative for open source applications.   
 It needs its own Google account sign in.
 - Install `Vanced microG` through the [Vanced Manager](https://github.com/YTVanced/VancedManager/releases/latest/download/manager.apk)
-- Delete all `Vanced microG`-Accounts from the Device Settings
-- Add only one microG Google account as multiple cause problems with [YouTube Vanced](#YouTube-Vanced)
+- Add microG Google accounts
